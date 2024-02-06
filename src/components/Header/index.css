@@ -1,0 +1,8 @@
+.link-items-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.link-item {
+  margin-left: 8px;
+}
